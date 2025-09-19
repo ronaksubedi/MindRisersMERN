@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Anchor TAG -->
+    <a href="https://www.google.com" target="_blank">Go to Google</a>
+    <br>
+    <a href="index.html">Go to Home Page</a>
+    <br>
+    <a href="mailto:ronaksubedi576@gmail.com">Send Email</a>
+    <br>
+    <a href="tel:9746975539">Call Now</a>
+    <br>
+    <a href="#top">Go to Top</a> 
+    <!-- we use #tag to call the id -->
+     <!-- Table -->
+     <table>
+         <tr>
+             <th>Name</th>
+             <th>Email</th>
+             <th>Phone</th>
+         </tr>
+         <tr>
+             <td>Ronak Subedi</td>
+             <td>ronaksubedi576.com</td>
+             <td>9746975539</td>
+         </tr>
+         <tr>
+             <td>Jane Smith</td>
+             <td>janesmith@example.com</td>
+             <td>+0987654321</td>
+         </tr>
+     </table>
+     <br><br>
+     <!-- form input  -->
+      <form action="#">
+        <label for="name">First Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="name">Last Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <br><br>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" min="1" max="100">
+        <br><br>
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob">
+        <br><br>
+        <label for="color">Favorite Color:</label>
+        <input type="color" id="color" name="color">
+        <br><br>
+        <label for="file">Upload File:</label>
+        <input type="file" id="file" name="file">
+        <br><br>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="4" cols="30"></textarea>
+        <br><br>
+        <p>Do you agree to the terms?</p>
+    <label><input type="radio" name="radio" value="yes" /> Yes</label>
+    <label><input type="radio" name="radio" value="no" /> No</label>
+    <br><br>
+    <p>Choose one car:</p>
+    <label for="car">Select a car:</label>
+    <select id="car" name="car">
+        <option value="">-- Please choose an option --</option>
+        <option value="audi">Audi</option>
+        <option value="bmw">BMW</option>
+        <option value="mercedes">Mercedes</option>
+    </select>
+    <br><br>
+        <input type="submit" value="Submit">
+      </form>
+</body>
+</html>
