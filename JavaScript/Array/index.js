@@ -17,6 +17,6 @@ let remove = allItems.shift(); // Removes the first element 'newItem1'
 console.log(`After shift: ${allItems}`);
 console.log(`Removed item: ${remove}`); // Output: 'newItem1'
 console.log(allItems.slice(1, 4)); // Output: elements from index 1 to 3
-let splicedItems = allItems.splice(2, 3, 'replacedItem2', 'replacedItem3', 'replacedItem4',); // Removes 3 elements from index 2 and adds two new items
+let splicedItems = allItems.splice(2, 3, 'replacedItem2', 'replacedItem3', 'replacedItem4'); // Removes 3 elements from index 2 and adds three new items
 console.log(`After splice: ${allItems}`);
 console.log(`Spliced items: ${splicedItems}`); // Output: removed elements
