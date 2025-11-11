@@ -1,3 +1,13 @@
+:root{
+    --primary-color: rgb(255, 255, 255);
+    --secondary-color:rgb(62, 62, 62);
+    --text-color: rgb(0, 0, 0);
+}
+.dark-mode{
+    --primary-color: rgb(0, 0, 0);
+    --secondary-color: black;
+    --text-color: rgb(255, 255, 255);
+}
 * {
     margin: 0;
     padding: 0;
@@ -5,6 +15,12 @@
     /* background: #ffffff; */
     font-family: merryweather, serif;
 }
+body {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+    transition: all 0.3s ease;
+}
+
 #intro {
     display: flex;
     flex-direction: column;
@@ -14,12 +30,15 @@
 
 }
 h1{
-    color: darkblue;
+    color: var(--text-color);
 
+}
+h2 {
+    color: var(--text-color);
 }
 
 p{
-    color: rgb(62, 62, 62);
+    color: var(--text-color);
     font-size: 18px;
     margin: 5px 0;
 }
