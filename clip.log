@@ -1,0 +1,92 @@
+* commit 3c147d35b8ab4a1594e5270bd2c636c7060f38cb (HEAD -> dom, origin/dom)
+| Author: Ronak Subedi <subedironak@gmail.com>
+| Date:   Sun Nov 9 11:14:34 2025 +0545
+| 
+|     Add initial HTML, CSS, and JavaScript files for DOM manipulation
+| 
+* commit 47c74adc7c4cf14005e864000e780c06a7ee7d14
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Sat Nov 8 22:04:12 2025 +0545
+| 
+|     Function
+| 
+* commit cede20795de9daf82481d22f4c2b2706222e9874
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Fri Nov 7 15:31:36 2025 +0545
+| 
+|     Array
+| 
+* commit 3c506ea69b8532a31d2fbd2a64be7dfded97868b
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Thu Nov 6 22:00:26 2025 +0545
+| 
+|     JavaScript loops strings pratice
+| 
+* commit fd9562e10b1debe657823d5bccf86e55c281459a
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Thu Nov 6 16:16:18 2025 +0545
+| 
+|     oprators and conditions
+| 
+* commit a72d1a6cc96707ea1253cc53fbfd44e43669ab28
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Thu Nov 6 15:29:51 2025 +0545
+| 
+|     Operators in js
+| 
+* commit 916cfd14b49329b21bafe93f6ff495f22dc5261b
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Thu Nov 6 14:47:31 2025 +0545
+| 
+|     Fundamental of js
+| 
+* commit 982279f0149f79a4106e474ed821489b662aa339
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Mon Nov 3 15:16:35 2025 +0545
+| 
+|     Javascript
+| 
+* commit 962b2bca01c7f518cebb456fceecc2914e00933e
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Mon Nov 3 14:03:12 2025 +0545
+| 
+|     This is Begining Of java Scritp
+| 
+* commit 246c5089e415179d8055fef4bb6266fa158d336a (css)
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Mon Nov 3 13:59:29 2025 +0545
+| 
+|     Add initial HTML structure and CSS styles for layout
+|     
+| *   commit 2b36165828270bea54392de8b01097821414dd1b (origin/main)
+| |\  Merge: 5005d8c 2373b36
+| |/  Author: Ronak Subedi <118621271+ronaksubedi@users.noreply.github.com>
+|/|   Date:   Wed Sep 24 19:39:47 2025 +0545
+| |   
+| |       Merge pull request #1 from ronaksubedi/css
+| |       
+| |       Css
+| | 
+* | commit 2373b360237d4a3cb2faf970510b9127a9148a65 (origin/css)
+| | Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| | Date:   Wed Sep 24 19:37:51 2025 +0545
+| | 
+| |     Add CSS styles and HTML structure for layout and design
+| | 
+* | commit 174957fd0caba49d4f4b1a78d26e6c78de63c119
+|/  Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+|   Date:   Wed Sep 24 08:00:53 2025 +0545
+|   
+|       css class
+| 
+* commit 5005d8c5e71be6f5c63bb2f5753ad16a6120ba36 (main)
+| Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+| Date:   Fri Sep 19 08:39:19 2025 +0545
+| 
+|     chnages
+| 
+* commit 88e4afee3f65563d8a87233de1885fe7380dc98b
+  Author: Drbuddha <118621271+Drbuddha@users.noreply.github.com>
+  Date:   Fri Sep 19 08:38:52 2025 +0545
+  
+      chnages

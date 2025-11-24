@@ -12,8 +12,10 @@ console.log("a**b =", a ** b); // Exponentiation (10 to the power of 5) 10^5
 //Unary Operators
 let c = 10;
 console.log("c++ =", c++); // Post-increment This will return 10 first and then increment
+console.log("c=", c);
 console.log("++c =", ++c); // Pre-increment This will increment first and then return 12 
 console.log("c-- =", c--); // Post-decrement This will return 12 first and then decrement
+console.log("c=". c);
 console.log("--c =", --c); // Pre-decrement This will decrement first and then return 11
 
 a = a+1;
