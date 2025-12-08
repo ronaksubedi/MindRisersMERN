@@ -1,13 +1,14 @@
-//variables
+// //variables
 const name = "hari";
 const type = " good boy";
 
 console.log(name + " " + "is a" + type);
 
-//JavaScript String Methods
+// //JavaScript String Methods
 let personName = "Jhon Doe"; //string variable
 console.log(personName.toUpperCase()); //converts to uppercase
 console.log(personName.toLowerCase()); //converts to lowercase
+
 let carName = "ABCDEFGHIJKL"; //String inside double quotes
 console.log(carName.length); //length of the string
 let fruitName = "Banana"; //String inside single quotes
