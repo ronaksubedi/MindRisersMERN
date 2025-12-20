@@ -82,3 +82,23 @@ const person = {
 };
 person.introduce();
 console.log(`Hi, I am ${person.Fname}. My Age is ${person.age}.`);
+
+// Write a function checkNumber(n) that logs "positive", "negative", or "zero" using if / else if / else.
+function checkNumber(n) {
+  if (n > 0) {
+    console.log("Positive Number");
+  } else if (n < 0) {
+    console.log("Negative Number");
+  } else {
+    console.log("Zero");
+  }
+}
+checkNumber(10);
+
+// Create a function that takes a score and returns "A", "B", "C", "D", or "F" based on ranges using if...else if.
+function grade(n) {
+  if (n >= 90) {
+    console.log("A");
+  } else if (n >= 80) {
+  }
+}
